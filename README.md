@@ -1,4 +1,9 @@
-### Hi there 👋
+Hi there 👋
+
+- 🔭 I’m currently working on multiplying my skills in data science
+- 🌱 I’m currently learning MySQL, Python, R, and Machine Learning algorithms
+- 🤔 I’m looking for help with some open source easy projects to get going!
+- 📫 Check me out on LinkedIn! (https://www.linkedin.com/in/haris-rehman-99865a166/) 
 
 <!--
 **Harri200191/Harri200191** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
