@@ -1,4 +1,4 @@
-Hi there 👋
+#Hi there 👋
 
 - 🔭 I’m currently working on multiplying my skills in data science
 - 🌱 I’m currently learning MySQL, Python, R, and Machine Learning algorithms
