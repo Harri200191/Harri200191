@@ -21,9 +21,9 @@
   </ul>
 </div>
 
-- 🔭 I’m currently working on multiplying my skills in data science
+- 🔭 I’m currently working on multiplying my skills in the fields of data science, machine learning, and deep learning
 
-- 🌱 I’m currently learning MySQL, Python, R, and Machine Learning algorithms
+- 🌱 I’m currently learning GAN's, NLP, Computer Vision, and LLM's
  
 - 🤔 I’m looking for help with some open source easy projects to get going!
  
