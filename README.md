@@ -31,7 +31,9 @@
  
 - 📫 Check me out on [LeetCode](leetcode.com/Harri200191/)! (https://leetcode.com/Harri200191/) 
  
-- 📫 Check me out on [Kaggle](kaggle.com/harisrehmanhh)! (https://kaggle.com/harisrehmanhh ) 
+- 📫 Check me out on [Kaggle](kaggle.com/harisrehmanhh)! (https://kaggle.com/harisrehmanhh )
+
+![](https://komarev.com/ghpvc/?username=Harri200191)
 
 <!--- stats & Trophy (start) -->
 <p align="center">
