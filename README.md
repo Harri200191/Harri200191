@@ -21,9 +21,9 @@
   </ul>
 </div>
 
-- 🔭 I’m currently working on multiplying my skills in the fields of data science, machine learning, and deep learning
+- 🔭 I’m currently working on multiplying my skills in the fields of data science, machine learning, deep learning, and Full Stack Developement (MERN Stack)
 
-- 🌱 I’m currently learning GAN's, NLP, Computer Vision, and LLM's
+- 🌱 I’m currently learning Generative AI, Advanced Computer Vision, Cloud Computing and MERN Stack,
  
 - 🤔 I’m looking for help with some open source easy projects to get going!
  
