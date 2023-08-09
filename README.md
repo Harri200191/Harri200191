@@ -15,11 +15,13 @@
 
 
 <!--h2 without bottom border-->
+<hr>
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">Confusion is part of Programming!</h2></summary>
   </ul>
 </div>
+<hr>
 
 - 🔭 I’m currently working on multiplying my skills in the fields of data science, machine learning, deep learning, and Full Stack Developement (MERN Stack)
 
