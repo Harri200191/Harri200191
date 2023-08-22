@@ -1,11 +1,9 @@
+![Blue Geometric Technology LinkedIn Banner (1)](https://github.com/Harri200191/Harri200191/assets/115916265/b20fc591-088a-4d70-bab6-eb0d7efa843a)
 
 <!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Haris</h1></summary>
-  </ul>
+<div align="center">
+    <h1 style="display: inline-block">Hi 👋, I'm Haris</h1>
 </div>
-
 
 <!--- snake -->
 <div align="center">
