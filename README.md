@@ -37,7 +37,9 @@
 <td width="50%" align="center">
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Harri200191&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harri200191&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
+
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Harri200191&theme=dark&hide_border=false" /> 
 </td>
 
@@ -48,6 +50,8 @@
   </td>
 </tr>
 </table>
+
+
 <!--- stats (end) -->
 
 <!--- trophy (start) -->
