@@ -1,7 +1,3 @@
-<div align="center">
-    <h1 style="display: inline-block">Hi 👋, I'm Haris</h1>
-</div>
-
 ![Blue Geometric Technology LinkedIn Banner (1)](https://github.com/Harri200191/Harri200191/assets/115916265/b20fc591-088a-4d70-bab6-eb0d7efa843a)
 
 <!--- snake -->
@@ -15,11 +11,72 @@
   </ul>
 </div>
 
-- 🔭 I’m currently working on multiplying my skills in the fields of data science, machine learning, deep learning, and Full Stack Developement (MERN Stack)
+# 👋 Hi, I'm Haris Rehman
 
-- 🌱 I’m currently learning Generative AI, Advanced Computer Vision, Cloud Computing and MERN Stack,
- 
-- 🤔 I’m looking for help with some open source easy projects to get going!
+**AI/ML & MLOps Engineer | Deep Learning | Computer Vision | Scalable AI Systems**
+
+🔍 Passionate about building intelligent, production-ready AI systems—from research to real-world deployment. I thrive at the intersection of **ML engineering, MLOps**, and **cloud-scale AI infrastructure**.
+
+---
+
+## 🚀 About Me
+
+- 🧠 **Machine Learning Engineer**
+  - Delivered production-grade AI systems with CI/CD, MLflow, model quantization, and edge-device deployments.
+  - Deployed TorchServe for scalable REST inference microservices & optimized model latency with NVIDIA stack.
+  - Integrated Docker Swarm for GPU-parallelized training, Prometheus + AlertManager for observability.
+  - Web scraping, data analysis, dashboarding, and custom ML workflows for real clients.
+
+- 💡 Always exploring cutting-edge tools in **Computer Vision**, **Generative AI**, and **MLOps ecosystems** like Dstack, Azure ML Studio, and Hugging Face Transformers.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**  
+`Python` `SQL` `JavaScript` `Bash`  
+
+**ML Frameworks**  
+`PyTorch` `TensorFlow` `Scikit-learn` `Hugging Face` `StatsModels` `OpenCV` `YOLO`  
+
+**MLOps & Deployment**  
+`MLflow` `Docker & Swarm` `TorchServe` `FastAPI` `Flask` `CI/CD` `Uvicorn`  
+`Azure AI Studio` `Prometheus` `AlertManager` `TensorBoard`
+
+**Big Data & Infra**  
+`Hadoop` `HDFS` `Hive` `Zookeeper` `Spark` `Redis` `MongoDB` `MQTT` `PostgreSQL`
+
+**Tools & Utilities**  
+`Git` `Conda` `Poetry` `Postman` `Insomnia` `tmux` `Nginx` `RedHat`
+
+---
+
+## 📂 Highlight Projects
+
+- 🔊 [**Audio Recognition**](https://github.com/Harri200191/audio-recognition)  
+  Speech-to-text system for keyword recognition; 94% accuracy.
+
+- 📈 [**GDP Time Series Forecasting (ANN + ARIMA)**](https://github.com/Harri200191/GDP-Prediction)  
+  Combines deep learning and classical models for long-term GDP prediction.
+
+- 🕵️‍♂️ [**Fake AI-Generated Image Detection**](https://github.com/Harri200191/Fake_AI_Photos_Detection)  
+  81% accuracy using classical ML & deep learning to detect GenAI images.
+
+- 🧬 [**Generative Adversarial Networks in PyTorch**](https://github.com/Harri200191/TestingWPyTorch)  
+  A GAN playground exploring DCGANs, Conditional GANs, Wasserstein Loss, and more.
+
+---
+
+## 🏆 Achievements
+
+- 🥈 **Cambridge Outstanding Learner Award** – Top 2 in A Levels (5 subjects, Punjab)
+- 🧮 **National Science Talent Contest (NSTC)** – Top 50 in Pakistan for Mathematics
+
+--- 
+
+> *“Build what scales. Automate what repeats. Simplify what’s complex.”*
+
+
  
 - 📫 Check me out on [LinkedIn](https://www.linkedin.com/in/haris-rehman-99865a166/)! (https://www.linkedin.com/in/haris-rehman-99865a166/) 
  
