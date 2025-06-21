@@ -97,7 +97,6 @@
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harri200191&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
 
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Harri200191&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
@@ -157,7 +156,7 @@
     <summary><h1 style="display: inline-block">Snake Eating My Contribution Graph!</h1></summary>
 </div>
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
